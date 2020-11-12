@@ -14,4 +14,4 @@ Single parent family
 This is the family which comprises of apparent/caregiver and one more dependent children without the presence of the one who is sharing the responsibility of parenting.
 
 OR
-It can defined as a family with children under the age of 18yrs headed by apparent who is widowed or divorced and not remarried.
+It can be defined as a family with children under the age of 18yrs headed by apparent who is widowed or divorced and not remarried.
