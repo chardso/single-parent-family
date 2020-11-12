@@ -16,6 +16,9 @@ This is the family which comprises of apparent/caregiver and one more dependent 
 OR
 It can be defined as a family with children under the age of 18yrs headed by apparent who is widowed or divorced and not remarried.
 
+
 Challenges,
+
 -most studies agree that children from single families are most likely to grow up in a financially challenged circumstances.
+
 -low income than those who grew up in more affluent two-parent homes.
