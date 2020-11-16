@@ -22,10 +22,11 @@ Challenges,
 -low income than those who grew up in more affluent two-parent homes.
 
 CAUSES OF ABOVE CHALLENGES
-Poor education
-lack of carrier guidance
-much freedom
-peer infiuence
-community neglegence
-poor training by the caretaker
-some tend to surrender in advance.
+
+-Poor education
+-lack of carrier guidance
+-much freedom
+-peer infiuence
+-community neglegence
+-poor training by the caretaker
+-some tend to surrender in advance.
