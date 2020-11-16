@@ -18,15 +18,24 @@ It can be defined as a family with children under the age of 18yrs headed by app
 
 
 Challenges,
+
 -most studies agree that children from single families are most likely to grow up in a financially challenged circumstances.
+
 -low income than those who grew up in more affluent two-parent homes.
 
 CAUSES OF ABOVE CHALLENGES
 
 -Poor education
+
 -lack of carrier guidance
+
 -much freedom
+
 -peer infiuence
+
 -community neglegence
+
 -poor training by the caretaker
--some tend to surrender in advance.
+
+-some tend to 
+ advance.
