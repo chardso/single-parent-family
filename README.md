@@ -1,8 +1,7 @@
 # single-parent-family
 
 A single parent is aperson who lives with a child or children who does not have a spouse or live-in partner
-
-REASONS OF BECOMING SINGLE PARENT INCLUDE,
+ ## REASONS OF BECOMING SINGLE PARENT INCLUDE,
 
 -divorce
 -break up
@@ -17,13 +16,13 @@ OR
 It can be defined as a family with children under the age of 18yrs headed by apparent who is widowed or divorced and not remarried.
 
 
-Challenges,
+# Challenges,
 
--most studies agree that children from single families are most likely to grow up in a financially challenged circumstances.
+- most studies agree that children from single families are most likely to grow up in a financially challenged circumstances.
 
--low income than those who grew up in more affluent two-parent homes.
+- low income than those who grew up in more affluent two-parent homes.
 
-CAUSES OF ABOVE CHALLENGES
+## CAUSES OF ABOVE CHALLENGES
 
 -Poor education
 
