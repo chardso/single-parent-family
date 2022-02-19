@@ -3,11 +3,11 @@
 A single parent is aperson who lives with a child or children who does not have a spouse or live-in partner
  ## REASONS OF BECOMING SINGLE PARENT INCLUDE,
 
--divorce
--break up
--abandonment
--death of other parent
--childbirth by a single person or single person adoption.
+- divorce
+- break up
+- abandonment
+- death of other parent
+- childbirth by a single person or single person adoption.
 
 Single parent family
 This is the family which comprises of apparent/caregiver and one more dependent children without the presence of the one who is sharing the responsibility of parenting.
@@ -24,17 +24,17 @@ It can be defined as a family with children under the age of 18yrs headed by app
 
 ## CAUSES OF ABOVE CHALLENGES
 
--Poor education
+- Poor education
 
--lack of carrier guidance
+- lack of carrier guidance
 
--much freedom
+- much freedom
 
--peer infiuence
+- peer infiuence
 
--community neglegence
+- community neglegence
 
--poor training by the caretaker
+- poor training by the caretaker
 
--some tend to 
+- some tend to 
  advance.
